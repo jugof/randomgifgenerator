@@ -13,7 +13,7 @@ const Tag = () => {
     <div className='w-1/2 bg-pink-500 rounded-lg border
      border-blue-500 mt-[15px] gap-y-5 flex flex-col items-center '>
       <h1 className='mt-[15px] text-xl underline uppercase font-bold '>
-        Random {tag} Gif
+        Random {tag} GIF
       </h1>
 
       {
